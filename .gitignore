@@ -1,0 +1,36 @@
+﻿# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+Recordings/
+
+# IDE and generated project files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+
+# Local environment and secrets
+.env
+.env.*
+*.log
+
+# Generated cycling session telemetry
+[Cc]ycling[Ll]ogs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
