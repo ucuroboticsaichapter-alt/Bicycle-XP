@@ -34,3 +34,6 @@ Recordings/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Local Visual Studio configuration
+*.vsconfig
